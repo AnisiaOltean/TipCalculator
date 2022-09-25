@@ -92,6 +92,7 @@ input[type="number"] {
   outline: none;
   text-align: right;
   margin-top: 1rem;
+  border-radius: 5px;
 }
 
 .input-bill #bill:is(:hover, :focus) {
@@ -121,6 +122,7 @@ input[type="number"] {
   background-position: 1rem center;
   text-align: right;
   margin-top: 1rem;
+  border-radius: 5px;
 }
 .input--tipp {
   width: 100%;
@@ -276,6 +278,10 @@ input[type="number"] {
 /*functionality class*/
 .hidden {
   display: none;
+}
+
+.displayBorder {
+  border: 2px solid red !important;
 }
 
 /*responsive css*/
