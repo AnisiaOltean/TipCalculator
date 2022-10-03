@@ -85,7 +85,7 @@ input[type="number"] {
 
 .input-bill #bill {
   height: 5vh;
-  background-image: url("/images/icon-dollar.svg");
+  background-image: url("images/icon-dollar.svg");
   background-repeat: no-repeat;
   background-position: 1rem center;
 
@@ -117,7 +117,7 @@ input[type="number"] {
 }
 .input--people #numberPeople {
   height: 5vh;
-  background-image: url("/images/icon-person.svg");
+  background-image: url("images/icon-person.svg");
   background-repeat: no-repeat;
   background-position: 1rem center;
   text-align: right;

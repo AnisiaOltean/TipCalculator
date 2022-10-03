@@ -73,7 +73,6 @@ function verifyConditions() {
 }
 
 function calculateBill() {
-  console.log("Calculating...");
   if (verifyConditions()) {
     removeErr();
 
